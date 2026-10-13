@@ -1,0 +1,21 @@
+# Virtual Environments
+env/
+venv/
+
+# Node Modules
+node_modules/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Django
+db.sqlite3
+media/
+staticfiles/
+
+# VS Code
+.vscode/
+
+# Environment Variables
+.env
